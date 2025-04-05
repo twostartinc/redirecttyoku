@@ -1,0 +1,8 @@
+name = "discord-redirect"
+main = "src/redirect.js"
+compatibility_date = "2024-04-05"
+
+routes = [
+  "twostart.net/*",
+  "liminalspace.jp/*"
+]
