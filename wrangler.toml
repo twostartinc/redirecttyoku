@@ -1,4 +1,4 @@
-name = "discord-redirect"
+name = "redirecttyoku"
 main = "src/redirect.js"
 compatibility_date = "2024-04-05"
 
